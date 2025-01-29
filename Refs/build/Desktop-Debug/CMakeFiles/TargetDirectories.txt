@@ -1,0 +1,9 @@
+/Users/levik/C++/Learnig/Refs/build/Desktop-Debug/CMakeFiles/Refs.dir
+/Users/levik/C++/Learnig/Refs/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/Users/levik/C++/Learnig/Refs/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/Users/levik/C++/Learnig/Refs/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/Users/levik/C++/Learnig/Refs/build/Desktop-Debug/CMakeFiles/install.dir
+/Users/levik/C++/Learnig/Refs/build/Desktop-Debug/CMakeFiles/install/local.dir
+/Users/levik/C++/Learnig/Refs/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/Users/levik/C++/Learnig/Refs/build/Desktop-Debug/CMakeFiles/Refs_autogen_timestamp_deps.dir
+/Users/levik/C++/Learnig/Refs/build/Desktop-Debug/CMakeFiles/Refs_autogen.dir
