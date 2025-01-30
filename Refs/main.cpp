@@ -1,4 +1,3 @@
-// #include <QCoreApplication>
 #include <iostream>
 #include <cstdlib>
 #include <memory>
